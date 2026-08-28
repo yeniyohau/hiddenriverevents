@@ -10,7 +10,7 @@
 <meta name="title" content="ZIATOGEL: Situs Slot Deposit QRIS Resmi & Klaim Free Spin">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://www.hiddenriverevents.com/referrals-recommendations/">
-<link rel="amphtml" href="https://hiddenriverevents.sjackman.ca/invitations.html">
+<link rel="amphtml" href="https://hiddenriverevents.sjackman.ca/nconco.html">
 <link rel="alternate" hreflang="id-id" href="https://www.hiddenriverevents.com/referrals-recommendations/"/>
 <link rel="alternate" hreflang="id" href="https://www.hiddenriverevents.com/referrals-recommendations/"/>
 <meta name="publisher" content="ZIATOGEL">
@@ -1465,7 +1465,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="ZIATOGEL DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="ZIATOGEL Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" href="https://hiddenriverevents.sjackman.ca/invitations.html" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="ZIATOGEL DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="ZIATOGEL Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" href="https://hiddenriverevents.sjackman.ca/nconco.html" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1473,7 +1473,7 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://www.hiddenriverevents.com/referrals-recommendations/" href="https://hiddenriverevents.sjackman.ca/invitations.html" role="menuitem">
+         <a data-linkinfo="https://www.hiddenriverevents.com/referrals-recommendations/" href="https://hiddenriverevents.sjackman.ca/nconco.html" role="menuitem">
           Login/Sign-Up
          </a>
          <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. ZIATOGEL Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.hiddenriverevents.com/referrals-recommendations/" role="menuitem">
@@ -4050,8 +4050,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://hiddenriverevents.sjackman.ca/invitations.html" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                <a href="https://hiddenriverevents.sjackman.ca/invitations.html" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                <a href="https://hiddenriverevents.sjackman.ca/nconco.html" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                <a href="https://hiddenriverevents.sjackman.ca/nconco.html" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
             </div>
         </div>
     </div>
@@ -6603,17 +6603,17 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hiddenriverevents.sjackman.ca/invitations.html">
+                  <a class="footer-category__link" href="https://hiddenriverevents.sjackman.ca/nconco.html">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hiddenriverevents.sjackman.ca/invitations.html">
+                  <a class="footer-category__link" href="https://hiddenriverevents.sjackman.ca/nconco.html">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://hiddenriverevents.sjackman.ca/invitations.html">
+                  <a class="footer-category__link" href="https://hiddenriverevents.sjackman.ca/nconco.html">
                     Lupa Password
                   </a>
                 </li>
@@ -10312,8 +10312,8 @@ digitalData.page.pageInfo.pageName = pageName;
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWRPrXxExCH8PNN6eeD2QdgacgKTmxF0gqBMOB57P1WJ5KR__J0PNua7cRA6DFDR04eeMDqpviz9fXMFbNfWEH6LDP5XzG6zEupz8snjV8_5uzmAHpvfhBg_e-8mCyhfzcv18pZ709RuiQoaWIoWuuKq1A9YfHQZsD8nJJ_M6ygPWsLbFzZn_L55nU_88B/s1024/7ea04475-70be-401c-a479-5a53237d242c.jpeg" alt="Popup Banner" class="popup-image" />
 
       <div class="clk-btn-sgp" style="font-size:20px;">
-        <a href="https://hiddenriverevents.sjackman.ca/invitations.html" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-        <a href="https://hiddenriverevents.sjackman.ca/invitations.html" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+        <a href="https://hiddenriverevents.sjackman.ca/nconco.html" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+        <a href="https://hiddenriverevents.sjackman.ca/nconco.html" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
       </div>
 
       <div class="popup-footer">
